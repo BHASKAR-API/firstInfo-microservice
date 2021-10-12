@@ -1,1 +1,0 @@
-# firstInfo-microservice
