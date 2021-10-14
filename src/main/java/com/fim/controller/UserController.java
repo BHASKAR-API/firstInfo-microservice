@@ -8,7 +8,7 @@ public class UserController {
 	
 	@GetMapping("/get")
 	public String heart() {
-		return "Application Started Successfully.............";
+		return "Application Started Successfully remotely updated.............";
 		
 	}
 
