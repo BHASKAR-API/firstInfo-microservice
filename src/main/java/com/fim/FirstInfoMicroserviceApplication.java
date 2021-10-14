@@ -10,7 +10,6 @@ public class FirstInfoMicroserviceApplication {
 		
 		System.out.println("Application Started.......");
 		
-		
 		SpringApplication.run(FirstInfoMicroserviceApplication.class, args);
 	}
 
