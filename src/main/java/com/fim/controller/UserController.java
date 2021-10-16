@@ -15,9 +15,14 @@ public class UserController {
 
 	public void get()
 	{
+		
+		//String name = "SOMU";
+		
+		//added method
+		
 		//festure/01
-		//fsda
-		//fsgs
+				//fsda
+				//fsgs
 	}
 
 }
