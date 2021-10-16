@@ -14,6 +14,10 @@ public class UserController {
 	}
 
 	public void get()
-	{}
+	{
+		//String name = "SOMU";
+		
+		//added method
+	}
 
 }
