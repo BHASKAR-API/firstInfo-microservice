@@ -10,6 +10,10 @@ public class UserController {
 	public String heart() {
 		return "Application Started Successfully remotely updated.............";
 		
+
 	}
+
+	public void get()
+	{}
 
 }
