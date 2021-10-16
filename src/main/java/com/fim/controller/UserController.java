@@ -11,5 +11,11 @@ public class UserController {
 		return "Application Started Successfully remotely updated.............";
 		
 	}
+	
+	public String getName() {
+		
+		return "Bhaskara!!!";
+		
+	}
 
 }
