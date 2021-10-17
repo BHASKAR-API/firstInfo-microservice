@@ -15,9 +15,6 @@ public class UserController {
 		
 		//Task done
 		
-		//Feature code added
-		
-		
 	}
 
 	//commit-1
