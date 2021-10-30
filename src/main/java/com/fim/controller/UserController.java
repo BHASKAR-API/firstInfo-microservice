@@ -52,7 +52,7 @@ public class UserController {
 				@PutMapping("/update")
 				public void update()
 				{
-					
+					//added by Bhaskar by feature 1
 				}
 
 }
