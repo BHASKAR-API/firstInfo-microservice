@@ -13,6 +13,7 @@ public class FirstInfoMicroserviceApplication {
 		SpringApplication.run(FirstInfoMicroserviceApplication.class, args);
 		
 		System.out.println("ru method...........!!!!!!!!!!");
+		System.out.println("ru method..........");
 	}
 
 }
